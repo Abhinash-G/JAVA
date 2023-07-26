@@ -1,4 +1,4 @@
-package com.Arrays;
+package com.Arrays.Medium;
 import java.util.*;
 
 public class Q54 {

@@ -1,4 +1,4 @@
-package com.Arrays;
+package com.Arrays.Easy;
 
 public class Q1929 {
     public int[] getConcatenation(int[] nums) {

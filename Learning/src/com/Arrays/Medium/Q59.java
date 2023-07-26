@@ -1,4 +1,4 @@
-package com.Arrays;
+package com.Arrays.Medium;
 
 import java.sql.SQLOutput;
 import java.util.Arrays;

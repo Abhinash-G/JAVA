@@ -1,4 +1,4 @@
-package com.Arrays;
+package com.Arrays.Easy;
 
 public class Q1672 {
     public static int maximumWealth(int[][] accounts) {
